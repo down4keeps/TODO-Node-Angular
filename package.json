@@ -1,0 +1,23 @@
+{
+  "name": "TODO-node-angular",
+  "version": "0.0.0",
+  "description": "Single Page ToDo App tutorial walk-through from http://scotch.io/tutorials/javascript...",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "express": "~4.7.2",
+    "mongoose": "~3.6.2",
+    "morga  n": "~1.2.2",
+    "body-parser": "~1.5.2",
+    "method-override": "~2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/down4keeps/TODO-Node-Angular.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/down4keeps/TODO-Node-Angular/issues"
+  },
+  "homepage": "https://github.com/down4keeps/TODO-Node-Angular"
+}
